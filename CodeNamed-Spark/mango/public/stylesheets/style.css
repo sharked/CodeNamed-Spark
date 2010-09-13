@@ -1,0 +1,13 @@
+/* CSS for the Main Page */
+
+
+h1 { font-size: 50px;font-weight: bold; text-align: center; color: green; }
+
+p{font-family: sans-serif; font-size: 13px;}
+
+p.padding{padding:25px 25px;}
+p.email_box{position:fixed; right:5px; top:10px; font-size:14px;}
+p.bottom_box{  
+  width:1220px; padding:15px; border:1px solid gray; margin:5px; position:absolute; bottom:0; }
+.image{top:10px; left:5px;}
+
